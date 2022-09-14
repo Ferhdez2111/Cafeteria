@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProyectoCafeteria.EntidadesDeNegocio/1.0.0": {
+        "runtime": {
+          "ProyectoCafeteria.EntidadesDeNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoCafeteria.EntidadesDeNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
