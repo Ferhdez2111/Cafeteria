@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoCafeteria.AccesoADatos
 {
-    class RolDAL
+   public class RolDAL
     {
         public static async Task<int> CrearAsync(Rol pRol)
         {

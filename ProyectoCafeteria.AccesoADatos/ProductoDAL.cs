@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoCafeteria.AccesoADatos
 {
-    class ProductoDAL
+   public class ProductoDAL
     {
         public static async Task<int> CrearAsync(Producto pProducto)
         {

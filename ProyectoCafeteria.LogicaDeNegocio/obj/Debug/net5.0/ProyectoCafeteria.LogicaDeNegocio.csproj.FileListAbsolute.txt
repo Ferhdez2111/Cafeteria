@@ -32,3 +32,20 @@ C:\Users\Alumno\Desktop\Nuevo proyecto cafeteria\ProyectoCafeteria\ProyectoCafet
 C:\Users\Alumno\Desktop\Nuevo proyecto cafeteria\ProyectoCafeteria\ProyectoCafeteria.LogicaDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.LogicaDeNegocio.dll
 C:\Users\Alumno\Desktop\Nuevo proyecto cafeteria\ProyectoCafeteria\ProyectoCafeteria.LogicaDeNegocio\obj\Debug\net5.0\ref\ProyectoCafeteria.LogicaDeNegocio.dll
 C:\Users\Alumno\Desktop\Nuevo proyecto cafeteria\ProyectoCafeteria\ProyectoCafeteria.LogicaDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.LogicaDeNegocio.pdb
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\bin\Debug\net5.0\ProyectoCafeteria.LogicaDeNegocio.deps.json
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\bin\Debug\net5.0\ProyectoCafeteria.LogicaDeNegocio.dll
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\bin\Debug\net5.0\ref\ProyectoCafeteria.LogicaDeNegocio.dll
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\bin\Debug\net5.0\ProyectoCafeteria.LogicaDeNegocio.pdb
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\bin\Debug\net5.0\ProyectoCafeteria.AccesoADatos.dll
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\bin\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.dll
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\bin\Debug\net5.0\ProyectoCafeteria.AccesoADatos.pdb
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\bin\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.pdb
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.LogicaDeNegocio.csproj.CopyComplete
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.LogicaDeNegocio.dll
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\obj\Debug\net5.0\ref\ProyectoCafeteria.LogicaDeNegocio.dll
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.LogicaDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.LogicaDeNegocio.pdb

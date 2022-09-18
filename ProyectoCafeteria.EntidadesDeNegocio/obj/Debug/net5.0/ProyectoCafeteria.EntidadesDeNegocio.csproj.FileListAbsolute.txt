@@ -22,3 +22,15 @@ C:\Users\Alumno\Desktop\Nuevo proyecto cafeteria\ProyectoCafeteria\ProyectoCafet
 C:\Users\Alumno\Desktop\Nuevo proyecto cafeteria\ProyectoCafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.dll
 C:\Users\Alumno\Desktop\Nuevo proyecto cafeteria\ProyectoCafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net5.0\ref\ProyectoCafeteria.EntidadesDeNegocio.dll
 C:\Users\Alumno\Desktop\Nuevo proyecto cafeteria\ProyectoCafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.pdb
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\bin\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.deps.json
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\bin\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.dll
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\bin\Debug\net5.0\ref\ProyectoCafeteria.EntidadesDeNegocio.dll
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\bin\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.pdb
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.dll
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net5.0\ref\ProyectoCafeteria.EntidadesDeNegocio.dll
+C:\Users\MINEDUCYT\Downloads\Cafeteriaa\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.pdb

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoCafeteria.AccesoADatos
 {
-    class UsuarioDAL
+   public class UsuarioDAL
     {
         private static void EncriptarMD5(Usuario pUsuario)
         {
