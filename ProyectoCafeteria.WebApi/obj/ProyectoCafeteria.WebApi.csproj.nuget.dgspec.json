@@ -1,33 +1,41 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.WebApi\\ProyectoCafeteria.WebApi.csproj": {}
+    "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.WebApi\\ProyectoCafeteria.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj": {
+    "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj",
+        "projectUniqueName": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj",
         "projectName": "ProyectoCafeteria.AccesoADatos",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj",
-        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.AccesoADatos\\obj\\",
+        "projectPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj",
+        "packagesPath": "C:\\Users\\Machine\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.AccesoADatos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Machine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
-                "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj"
+              "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj"
               }
             }
           }
@@ -66,26 +74,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
+    "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj",
         "projectName": "ProyectoCafeteria.EntidadesDeNegocio",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj",
-        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\obj\\",
+        "projectPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj",
+        "packagesPath": "C:\\Users\\Machine\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Machine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -118,37 +134,45 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.LogicaDeNegocio\\ProyectoCafeteria.LogicaDeNegocio.csproj": {
+    "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.LogicaDeNegocio\\ProyectoCafeteria.LogicaDeNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.LogicaDeNegocio\\ProyectoCafeteria.LogicaDeNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.LogicaDeNegocio\\ProyectoCafeteria.LogicaDeNegocio.csproj",
         "projectName": "ProyectoCafeteria.LogicaDeNegocio",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.LogicaDeNegocio\\ProyectoCafeteria.LogicaDeNegocio.csproj",
-        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.LogicaDeNegocio\\obj\\",
+        "projectPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.LogicaDeNegocio\\ProyectoCafeteria.LogicaDeNegocio.csproj",
+        "packagesPath": "C:\\Users\\Machine\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.LogicaDeNegocio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Machine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj": {
-                "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj"
+              "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj": {
+                "projectPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj"
               },
-              "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
-                "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj"
+              "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj"
               }
             }
           }
@@ -177,37 +201,45 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.WebApi\\ProyectoCafeteria.WebApi.csproj": {
+    "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.WebApi\\ProyectoCafeteria.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.WebApi\\ProyectoCafeteria.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.WebApi\\ProyectoCafeteria.WebApi.csproj",
         "projectName": "ProyectoCafeteria.WebApi",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.WebApi\\ProyectoCafeteria.WebApi.csproj",
-        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.WebApi\\obj\\",
+        "projectPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.WebApi\\ProyectoCafeteria.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Machine\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.WebApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Machine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
-                "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj"
+              "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj"
               },
-              "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.LogicaDeNegocio\\ProyectoCafeteria.LogicaDeNegocio.csproj": {
-                "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.LogicaDeNegocio\\ProyectoCafeteria.LogicaDeNegocio.csproj"
+              "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.LogicaDeNegocio\\ProyectoCafeteria.LogicaDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.LogicaDeNegocio\\ProyectoCafeteria.LogicaDeNegocio.csproj"
               }
             }
           }
@@ -222,6 +254,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -245,7 +281,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

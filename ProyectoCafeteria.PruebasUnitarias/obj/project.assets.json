@@ -8558,35 +8558,45 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\": {}
+    "C:\\Users\\Machine\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.PruebasUnitarias\\ProyectoCafeteria.PruebasUnitarias.csproj",
+      "projectUniqueName": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.PruebasUnitarias\\ProyectoCafeteria.PruebasUnitarias.csproj",
       "projectName": "ProyectoCafeteria.PruebasUnitarias",
-      "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.PruebasUnitarias\\ProyectoCafeteria.PruebasUnitarias.csproj",
-      "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.PruebasUnitarias\\obj\\",
+      "projectPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.PruebasUnitarias\\ProyectoCafeteria.PruebasUnitarias.csproj",
+      "packagesPath": "C:\\Users\\Machine\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.PruebasUnitarias\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Machine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj": {
-              "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj"
+            "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj": {
+              "projectPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj"
             },
-            "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
-              "projectPath": "C:\\Users\\MINEDUCYT\\Downloads\\Cafeteriaa\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj"
+            "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
+              "projectPath": "C:\\Users\\Machine\\Desktop\\proyecto cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj"
             }
           }
         }
@@ -8633,7 +8643,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }

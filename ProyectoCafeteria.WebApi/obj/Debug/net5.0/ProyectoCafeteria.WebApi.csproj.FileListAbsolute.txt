@@ -63,3 +63,13 @@ C:\Users\Alumno\Desktop\Nuevo proyecto cafeteria\ProyectoCafeteria\ProyectoCafet
 C:\Users\Alumno\Desktop\Nuevo proyecto cafeteria\ProyectoCafeteria\ProyectoCafeteria.WebApi\obj\Debug\net5.0\ref\ProyectoCafeteria.WebApi.dll
 C:\Users\Alumno\Desktop\Nuevo proyecto cafeteria\ProyectoCafeteria\ProyectoCafeteria.WebApi\obj\Debug\net5.0\ProyectoCafeteria.WebApi.pdb
 C:\Users\Alumno\Desktop\Nuevo proyecto cafeteria\ProyectoCafeteria\ProyectoCafeteria.WebApi\obj\Debug\net5.0\ProyectoCafeteria.WebApi.genruntimeconfig.cache
+C:\Users\Machine\Desktop\proyecto cafeteria\ProyectoCafeteria.WebApi\obj\Debug\net5.0\ProyectoCafeteria.WebApi.csproj.AssemblyReference.cache
+C:\Users\Machine\Desktop\proyecto cafeteria\ProyectoCafeteria.WebApi\obj\Debug\net5.0\ProyectoCafeteria.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Machine\Desktop\proyecto cafeteria\ProyectoCafeteria.WebApi\obj\Debug\net5.0\ProyectoCafeteria.WebApi.AssemblyInfoInputs.cache
+C:\Users\Machine\Desktop\proyecto cafeteria\ProyectoCafeteria.WebApi\obj\Debug\net5.0\ProyectoCafeteria.WebApi.AssemblyInfo.cs
+C:\Users\Machine\Desktop\proyecto cafeteria\ProyectoCafeteria.WebApi\obj\Debug\net5.0\ProyectoCafeteria.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Machine\Desktop\proyecto cafeteria\ProyectoCafeteria.WebApi\obj\Debug\net5.0\ProyectoCafeteria.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Machine\Desktop\proyecto cafeteria\ProyectoCafeteria.WebApi\obj\Debug\net5.0\ProyectoCafeteria.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Machine\Desktop\proyecto cafeteria\ProyectoCafeteria.WebApi\obj\Debug\net5.0\ProyectoCafeteria.WebApi.dll
+C:\Users\Machine\Desktop\proyecto cafeteria\ProyectoCafeteria.WebApi\obj\Debug\net5.0\ref\ProyectoCafeteria.WebApi.dll
+C:\Users\Machine\Desktop\proyecto cafeteria\ProyectoCafeteria.WebApi\obj\Debug\net5.0\ProyectoCafeteria.WebApi.pdb

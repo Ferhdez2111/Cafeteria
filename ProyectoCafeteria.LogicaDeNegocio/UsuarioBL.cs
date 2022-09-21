@@ -9,7 +9,7 @@ using ProyectoCafeteria.EntidadesDeNegocio;
 
 namespace ProyectoCafeteria.LogicaDeNegocio
 {
-    class UsuarioBL
+    public class UsuarioBL
     {
         public async Task<int> CrearAsync(Usuario pUsuario)
         {

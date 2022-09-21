@@ -9,7 +9,7 @@ using ProyectoCafeteria.EntidadesDeNegocio;
 
 namespace ProyectoCafeteria.LogicaDeNegocio
 {
-    class RolBL
+   public  class RolBL
     {
         public async Task<int> CrearAsync(Rol pRol)
         {
