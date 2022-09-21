@@ -7,28 +7,29 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.Json;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ProyectoCafeteria.WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     [Authorize]
-    public class ProductoController : ControllerBase
+    public class CategoriaController : ControllerBase
     {
         private CategoriaBL categoriaBL = new CategoriaBL();
 
         [HttpGet]
         public async Task<IEnumerable<Categoria>> Get()
         {
-            return await productoBL.ObtenerTodosAsync();
+            return await categoriaBL.ObtenerTodosAsync();
         }
 
         [HttpGet("{id}")]
         public async Task<Categoria> Get(int id)
         {
-            Categoria pcategoria = new Categoria();
-            categoria.Id = id;
-            return await productoBL.ObtenerPorIdAsync(categoria);
+            Categoria categoria = new Categoria();
+            categoriaBL.Id = id;
+            return await categoriaBL.ObtenerPorIdAsync(categoria);
         }
 
         [HttpPost]
@@ -70,7 +71,7 @@ namespace ProyectoCafeteria.WebApi.Controllers
             {
                 Categoria categoria = new Categoria();
                 categoria.Id = id;
-                await productoBL.EliminarAsync(categoria);
+                await categoriaBL.EliminarAsync(categoria);
                 return Ok();
             }
             catch (Exception)
@@ -85,8 +86,7 @@ namespace ProyectoCafeteria.WebApi.Controllers
             var option = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
             string strCategoria = JsonSerializer.Serialize(pCategoria);
             Categoria categoria = JsonSerializer.Deserialize<Categoria>(strCategoria, option);
-            var productos = await productoBL.BuscarIncluirDepartamentosAsync(categoria);
-            productos.ForEach(s => s.Departamento.Producto = null); // Evitar la redundacia de datos
+            var productos = await categoriaBL.BuscarAsync(categoria);
             return productos;
         }
     }

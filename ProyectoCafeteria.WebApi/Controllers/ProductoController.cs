@@ -28,7 +28,7 @@ namespace ProyectoCafeteria.WebApi.Controllers
         public async Task<Producto> Get(int id)
         {
             Producto producto = new Producto();
-            categoriaBL.Id = id;
+            productoBL.Id = id;
             return await productoBL.ObtenerPorIdAsync(producto);
         }
 
@@ -85,8 +85,7 @@ namespace ProyectoCafeteria.WebApi.Controllers
             var option = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
             string strProducto = JsonSerializer.Serialize(pProducto);
             Producto producto = JsonSerializer.Deserialize<Producto>(strProducto, option);
-            var productos = await productoBL.BuscarIncluirDepartamentosAsync(producto);
-            productos.ForEach(s => s.Departamento.Producto = null); // Evitar la redundacia de datos
+            var productos = await productoBL.BuscarAsync(producto);
             return productos;
         }
     }

@@ -9,8 +9,10 @@ using ProyectoCafeteria.EntidadesDeNegocio;
 
 namespace ProyectoCafeteria.LogicaDeNegocio
 {
-    class ProductoBL
+  public  class ProductoBL
     {
+        public int Id;
+
         public async Task<int> CrearAsync(Producto pProducto)
         {
             return await ProductoDAL.CrearAsync(pProducto);

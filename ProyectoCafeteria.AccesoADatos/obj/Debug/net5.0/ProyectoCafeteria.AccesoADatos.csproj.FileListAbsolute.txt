@@ -58,3 +58,18 @@ C:\Users\Machine\Desktop\proyecto cafeteria\ProyectoCafeteria.AccesoADatos\obj\D
 C:\Users\Machine\Desktop\proyecto cafeteria\ProyectoCafeteria.AccesoADatos\obj\Debug\net5.0\ProyectoCafeteria.AccesoADatos.dll
 C:\Users\Machine\Desktop\proyecto cafeteria\ProyectoCafeteria.AccesoADatos\obj\Debug\net5.0\ref\ProyectoCafeteria.AccesoADatos.dll
 C:\Users\Machine\Desktop\proyecto cafeteria\ProyectoCafeteria.AccesoADatos\obj\Debug\net5.0\ProyectoCafeteria.AccesoADatos.pdb
+C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.AccesoADatos\bin\Debug\net5.0\ProyectoCafeteria.AccesoADatos.deps.json
+C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.AccesoADatos\bin\Debug\net5.0\ProyectoCafeteria.AccesoADatos.dll
+C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.AccesoADatos\bin\Debug\net5.0\ProyectoCafeteria.AccesoADatos.pdb
+C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.AccesoADatos\bin\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.dll
+C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.AccesoADatos\bin\Debug\net5.0\ProyectoCafeteria.EntidadesDeNegocio.pdb
+C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.AccesoADatos\obj\Debug\net5.0\ProyectoCafeteria.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.AccesoADatos\obj\Debug\net5.0\ProyectoCafeteria.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.AccesoADatos\obj\Debug\net5.0\ProyectoCafeteria.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.AccesoADatos\obj\Debug\net5.0\ProyectoCafeteria.AccesoADatos.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.AccesoADatos\obj\Debug\net5.0\ProyectoCafeteria.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.AccesoADatos\obj\Debug\net5.0\ProyectoCafeteria.AccesoADatos.csproj.CopyComplete
+C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.AccesoADatos\obj\Debug\net5.0\ProyectoCafeteria.AccesoADatos.dll
+C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.AccesoADatos\obj\Debug\net5.0\refint\ProyectoCafeteria.AccesoADatos.dll
+C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.AccesoADatos\obj\Debug\net5.0\ProyectoCafeteria.AccesoADatos.pdb
+C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.AccesoADatos\obj\Debug\net5.0\ref\ProyectoCafeteria.AccesoADatos.dll
