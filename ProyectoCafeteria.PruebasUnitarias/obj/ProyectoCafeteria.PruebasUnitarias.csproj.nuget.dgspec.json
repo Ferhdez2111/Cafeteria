@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.PruebasUnitarias\\ProyectoCafeteria.PruebasUnitarias.csproj": {}
+    "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.PruebasUnitarias\\ProyectoCafeteria.PruebasUnitarias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj": {
+    "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj",
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj",
         "projectName": "ProyectoCafeteria.AccesoADatos",
-        "projectPath": "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.AccesoADatos\\obj\\",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj",
+        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.AccesoADatos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
-                "projectPath": "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj"
+              "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj"
               }
             }
           }
@@ -51,11 +46,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.17, )"
+              "version": "[6.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.17, )"
+              "version": "[6.0.9, )"
             }
           },
           "imports": [
@@ -74,25 +69,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
+    "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj",
         "projectName": "ProyectoCafeteria.EntidadesDeNegocio",
-        "projectPath": "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\obj\\",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj",
+        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,7 +91,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -134,25 +124,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.PruebasUnitarias\\ProyectoCafeteria.PruebasUnitarias.csproj": {
+    "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.PruebasUnitarias\\ProyectoCafeteria.PruebasUnitarias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.PruebasUnitarias\\ProyectoCafeteria.PruebasUnitarias.csproj",
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.PruebasUnitarias\\ProyectoCafeteria.PruebasUnitarias.csproj",
         "projectName": "ProyectoCafeteria.PruebasUnitarias",
-        "projectPath": "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.PruebasUnitarias\\ProyectoCafeteria.PruebasUnitarias.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.PruebasUnitarias\\obj\\",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.PruebasUnitarias\\ProyectoCafeteria.PruebasUnitarias.csproj",
+        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.PruebasUnitarias\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,18 +146,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj": {
-                "projectPath": "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj"
+              "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj": {
+                "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.AccesoADatos\\ProyectoCafeteria.AccesoADatos.csproj"
               },
-              "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
-                "projectPath": "C:\\Users\\Alumno\\Desktop\\cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj"
+              "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Ultimo\\Cafeteria\\ProyectoCafeteria.EntidadesDeNegocio\\ProyectoCafeteria.EntidadesDeNegocio.csproj"
               }
             }
           }
@@ -188,19 +173,21 @@
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[2.2.3, )"
+              "version": "[2.2.10, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[2.2.3, )"
+              "version": "[2.2.10, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.9.4, )"
+              "version": "[17.3.2, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.2, )"
+              "version": "[3.1.2, )"
             }
           },
           "imports": [
@@ -219,7 +206,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
         }
       }
     }

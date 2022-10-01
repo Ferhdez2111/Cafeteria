@@ -17,7 +17,7 @@ namespace ProyectoCafeteria.WebApi.Controllers
     public class ProductoController : ControllerBase
     {
         private ProductoBL productoBL = new ProductoBL();
-
+        [AllowAnonymous]
         [HttpGet]
         public async Task<IEnumerable<Producto>> Get()
         {

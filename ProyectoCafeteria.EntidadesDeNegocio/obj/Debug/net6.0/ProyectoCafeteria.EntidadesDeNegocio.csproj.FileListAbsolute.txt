@@ -10,3 +10,15 @@ C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug
 C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net6.0\refint\ProyectoCafeteria.EntidadesDeNegocio.dll
 C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net6.0\ProyectoCafeteria.EntidadesDeNegocio.pdb
 C:\Users\Alumno\Desktop\cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net6.0\ref\ProyectoCafeteria.EntidadesDeNegocio.dll
+C:\Users\MINEDUCYT\Desktop\Ultimo\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\bin\Debug\net6.0\ProyectoCafeteria.EntidadesDeNegocio.deps.json
+C:\Users\MINEDUCYT\Desktop\Ultimo\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\bin\Debug\net6.0\ProyectoCafeteria.EntidadesDeNegocio.dll
+C:\Users\MINEDUCYT\Desktop\Ultimo\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\bin\Debug\net6.0\ProyectoCafeteria.EntidadesDeNegocio.pdb
+C:\Users\MINEDUCYT\Desktop\Ultimo\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net6.0\ProyectoCafeteria.EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Ultimo\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net6.0\ProyectoCafeteria.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Ultimo\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net6.0\ProyectoCafeteria.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Ultimo\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net6.0\ProyectoCafeteria.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Ultimo\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net6.0\ProyectoCafeteria.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Ultimo\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net6.0\ProyectoCafeteria.EntidadesDeNegocio.dll
+C:\Users\MINEDUCYT\Desktop\Ultimo\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net6.0\refint\ProyectoCafeteria.EntidadesDeNegocio.dll
+C:\Users\MINEDUCYT\Desktop\Ultimo\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net6.0\ProyectoCafeteria.EntidadesDeNegocio.pdb
+C:\Users\MINEDUCYT\Desktop\Ultimo\Cafeteria\ProyectoCafeteria.EntidadesDeNegocio\obj\Debug\net6.0\ref\ProyectoCafeteria.EntidadesDeNegocio.dll

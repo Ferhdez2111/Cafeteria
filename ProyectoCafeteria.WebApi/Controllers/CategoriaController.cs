@@ -17,7 +17,7 @@ namespace ProyectoCafeteria.WebApi.Controllers
     public class CategoriaController : ControllerBase
     {
         private CategoriaBL categoriaBL = new CategoriaBL();
-
+        [AllowAnonymous]
         [HttpGet]
         public async Task<IEnumerable<Categoria>> Get()
         {
