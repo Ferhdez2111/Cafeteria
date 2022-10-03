@@ -18,7 +18,7 @@ namespace ProyectoCafeteria.AccesoADatos
 
             protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             {
-                optionsBuilder.UseSqlServer(@"Data Source=JC-PC;Initial Catalog=ProyectoEjemplo;Integrated Security=True");
+                optionsBuilder.UseSqlServer(@"Data Source=M13-CI\MSSQLSERVER01;Initial Catalog=Cafeteria;Integrated Security=True");
             }
         }
     }

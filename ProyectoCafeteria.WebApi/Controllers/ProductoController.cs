@@ -13,7 +13,7 @@ namespace ProyectoCafeteria.WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class ProductoController : ControllerBase
     {
         private ProductoBL productoBL = new ProductoBL();
@@ -28,7 +28,7 @@ namespace ProyectoCafeteria.WebApi.Controllers
         public async Task<Producto> Get(int id)
         {
             Producto producto = new Producto();
-            productoBL.Id = id;
+            producto.Id = id;
             return await productoBL.ObtenerPorIdAsync(producto);
         }
 
